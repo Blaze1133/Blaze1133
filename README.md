@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=Welcome%20to%20My%20Profile&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20Architect%20%7C%20System%20Designer&descSize=20&descAlignY=55"/>
+
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, I'm [Your Name]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 <p align="center">
