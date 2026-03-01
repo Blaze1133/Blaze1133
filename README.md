@@ -1,269 +1,287 @@
-<div align="center">
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, I'm [Your Name]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-<!-- Hero Banner with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Software%20Engineer%20%7C%20System%20Architect&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20scalable%20enterprise%20systems%20with%20precision%20and%20purpose&descSize=16&descAlignY=55"/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Software%20Engineer;Backend%20Architecture%20Specialist;Building%20Enterprise%20SaaS%20Platforms;Multi-Tenant%20%26%20RBAC%20Expert;AI-Powered%20Development%20Advocate;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=800&height=100&lines=Architecting+Robust+Backend+Systems;Designing+Multi-Tenant+SaaS+Platforms;Building+Enterprise-Grade+Solutions" alt="Typing SVG" /></a>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-</div>
+<p><em>Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?label=Follow)](https://twitter.com/intent/follow?screen_name=YOUR_TWITTER)
+[![Linkedin: YOUR_NAME](https://img.shields.io/badge/-YOUR__NAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOUR_LINKEDIN/)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com/)](https://yourwebsite.com/)
+![](https://visitor-badge.glitch.me/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
 
 <br/>
 
-<!-- About Section -->
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🤝 Connect with me:
 
-### 🎯 About Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN" height="30" width="40" /></a>
+<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/YOUR_SO_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="YOUR_SO_ID" height="30" width="40" /></a>
+<a href="https://dev.to/YOUR_DEVTO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="YOUR_DEVTO" height="30" width="40" /></a>
+</p>
 
-```yaml
-role: Senior Software Engineer
-focus: Backend Architecture & System Design
-specialization:
-  - Enterprise SaaS Platforms
-  - Multi-Tenant Architecture
-  - Role-Based Access Control (RBAC)
-  - Scalable API Design
-  - AI-Assisted Development Workflows
-mindset: Clean Code | Security First | Performance Optimized
+<br/>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const softwareEngineer = {
+    name: "Your Name",
+    pronouns: ["he", "him"] || ["she", "her"],
+    location: "Your City, Country",
+    
+    code: {
+        backend: ["Python", "Node.js", "TypeScript", "Go"],
+        frontend: ["JavaScript", "TypeScript", "React", "Next.js"],
+        databases: ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
+        cloud: ["AWS", "GCP", "Azure", "Docker", "Kubernetes"]
+    },
+    
+    architecture: {
+        patterns: ["Microservices", "Event-Driven", "CQRS", "Domain-Driven Design"],
+        focus: ["Multi-Tenant SaaS", "RBAC Systems", "API Gateway Design"],
+        principles: ["SOLID", "Clean Architecture", "Security by Design"]
+    },
+    
+    technologies: {
+        backend: {
+            python: ["FastAPI", "Django", "Flask", "SQLAlchemy"],
+            node: ["Express", "NestJS", "Fastify"],
+            apis: ["REST", "GraphQL", "gRPC", "WebSockets"]
+        },
+        
+        frontend: {
+            frameworks: ["React", "Next.js", "Vue"],
+            styling: ["TailwindCSS", "Styled-Components", "shadcn/ui"],
+            state: ["Redux", "Zustand", "React Query"]
+        },
+        
+        devOps: {
+            containerization: ["Docker", "Docker Compose", "Kubernetes"],
+            cicd: ["GitHub Actions", "GitLab CI", "Jenkins"],
+            monitoring: ["Prometheus", "Grafana", "ELK Stack"]
+        },
+        
+        databases: {
+            relational: ["PostgreSQL", "MySQL"],
+            nosql: ["MongoDB", "DynamoDB"],
+            cache: ["Redis", "Memcached"],
+            search: ["Elasticsearch"]
+        }
+    },
+    
+    currentFocus: "Building scalable multi-tenant SaaS platforms with enterprise-grade security",
+    askMeAbout: [
+        "Backend Architecture",
+        "System Design",
+        "Multi-Tenant Systems",
+        "RBAC Implementation",
+        "API Design",
+        "Cloud Architecture",
+        "AI-Assisted Development"
+    ],
+    
+    funFact: "I debug with console.log() and I'm not ashamed"
+};
 ```
 
-</td>
-<td width="50%" valign="top">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-### 💡 Core Principles
+---
 
-Building systems that scale isn't just about handling load—it's about **architectural clarity**, **security by design**, and **maintainable complexity**. I architect solutions that balance enterprise requirements with developer experience, ensuring every layer serves a purpose.
+<details open>
+<summary><b>📊 GitHub Stats</b></summary>
+<br>
 
-</td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=algolia" alt="YOUR_GITHUB_USERNAME" />
+</p>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" width="100%">
+</p>
 
-<br/>
+</details>
 
-<!-- Tech Stack Section -->
-<div align="center">
+<details open>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+<br>
 
-## 🛠️ Technology Arsenal
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-### Backend & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+</details>
 
-### Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<details open>
+<summary><b>📈 Coding Stats (WakaTime)</b></summary>
+<br>
 
-### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+</details>
 
-### Tools & Platforms
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
-</div>
+### 🛠️ Languages and Tools
 
-<br/>
+<p align="left">
+<!-- Backend -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Frontend -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
-<br/>
+<!-- Databases -->
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
-<!-- GitHub Stats Section -->
-<div align="center">
+<!-- DevOps & Cloud -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 
-## 📊 GitHub Analytics
+<!-- Tools -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
+<h3 align="center">Enterprise SaaS Platform</h3>
+<div align="center">  
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_1&theme=algolia" alt="Enterprise SaaS" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github"/>
+</a>  
+</p>
+<p><strong>FastAPI • PostgreSQL • Redis • Docker</strong> - Multi-tenant authentication system with granular RBAC, JWT tokens, and tenant isolation at the database level.</p>
+</div>
 </td>
+
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+<h3 align="center">Real-Time Social Feed</h3>
+<div align="center">  
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_2&theme=algolia" alt="Social Feed" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github"/>
+</a>  
+</p>
+<p><strong>React • FastAPI • SQLite • TailwindCSS</strong> - High-performance content delivery platform with image optimization, real-time aggregation, and efficient caching.</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">AI Workflow Engine</h3>
+<div align="center">  
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_3" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_3&theme=algolia" alt="AI Workflow" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_3" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github"/>
+</a>  
+</p>
+<p><strong>Python • Docker • Kubernetes • GitHub Actions</strong> - AI-assisted development pipeline with context-aware code generation and automated testing workflows.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">API Gateway & Service Mesh</h3>
+<div align="center">  
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_4" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_4&theme=algolia" alt="API Gateway" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_4" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github"/>
+</a>  
+</p>
+<p><strong>Node.js • Express • Redis • AWS</strong> - Robust API gateway with request routing, rate limiting, service discovery, and centralized monitoring.</p>
+</div>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=C9D1D9" alt="Contribution Graph" />
+### 💭 Architecture Philosophy
 
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<!-- Featured Projects Section -->
-<div align="center">
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Enterprise SaaS Platform
-**Multi-tenant authentication & authorization system**
-
-Built a production-ready FastAPI backend with:
-- JWT-based authentication
-- Granular RBAC implementation
-- Tenant isolation at database level
-- RESTful API design
-- SQLAlchemy ORM with PostgreSQL
-
-**Tech:** `FastAPI` `PostgreSQL` `Redis` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Real-Time Social Feed
-**Scalable content delivery platform**
-
-Architected a high-performance feed system featuring:
-- Image upload & optimization pipeline
-- Real-time content aggregation
-- Efficient caching strategies
-- User interaction tracking
-- Responsive frontend interface
-
-**Tech:** `React` `FastAPI` `SQLite` `TailwindCSS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI-Powered Workflow Engine
-**Intelligent automation framework**
-
-Developed an AI-assisted development pipeline:
-- Context-aware code generation
-- Automated testing workflows
-- CI/CD integration
-- Performance monitoring
-- Scalable microservices architecture
-
-**Tech:** `Python` `Docker` `Kubernetes` `GitHub Actions`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 API Gateway & Service Mesh
-**Distributed system orchestration**
-
-Designed a robust API gateway handling:
-- Request routing & load balancing
-- Rate limiting & throttling
-- Service discovery
-- Centralized logging & monitoring
-- Security middleware layer
-
-**Tech:** `Node.js` `Express` `Redis` `AWS`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<!-- Architecture Philosophy Section -->
-<div align="center">
-
-## 🏛️ Architecture Philosophy
-
-<table>
-<tr>
-<td>
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  "Great architecture isn't about using every pattern in the book.  │
-│   It's about choosing the right abstraction at the right layer,    │
-│   ensuring security isn't an afterthought, and building systems    │
-│   that developers actually want to maintain."                      │
-│                                                                     │
-│  Core Tenets:                                                       │
-│  ├─ Scalability through thoughtful design, not premature scaling   │
-│  ├─ Security embedded at every architectural layer                 │
-│  ├─ Clean separation of concerns & domain boundaries               │
-│  ├─ Observability as a first-class citizen                         │
-│  └─ Developer experience drives long-term maintainability          │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+```ascii
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║  "Great architecture isn't about using every pattern in the book.       ║
+║   It's about choosing the right abstraction at the right layer,         ║
+║   ensuring security isn't an afterthought, and building systems         ║
+║   that developers actually want to maintain."                           ║
+║                                                                          ║
+║  Core Tenets:                                                            ║
+║  ├─ Scalability through thoughtful design, not premature optimization   ║
+║  ├─ Security embedded at every architectural layer                      ║
+║  ├─ Clean separation of concerns & domain boundaries                    ║
+║  ├─ Observability as a first-class citizen                              ║
+║  └─ Developer experience drives long-term maintainability               ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-</tr>
-</table>
+---
 
-</div>
+### 📝 Latest Blog Posts
 
-<br/>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br/>
-
-<!-- Contact Section -->
 <div align="center">
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-
-<br/>
-
-**Open to collaboration on enterprise-grade projects and architectural consulting**
+### Show some ❤️ by starring some of the repositories!
 
 </div>
 
-<br/>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
